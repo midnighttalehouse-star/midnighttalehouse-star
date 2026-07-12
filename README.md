@@ -34,9 +34,9 @@
 
 ## 🚀 About Me
 
-> **Former Army Captain → self-taught AI Product Builder.** I don't just prototype — I ship real, end-to-end products: LLM apps, RAG systems, multi-agent automation pipelines and cross-platform desktop tools.
+> **Self-taught AI Product Builder.** I don't just prototype — I ship real, end-to-end products: LLM apps, RAG systems, multi-agent automation pipelines and cross-platform desktop tools.
 
-- 🎖️ **8 years leading teams under real pressure** as an Army officer — ownership, risk management, calm execution
+- 🎖️ **8 years leading teams under real pressure** as an military officer — ownership, risk management, calm execution
 - 🛠️ **3 live products shipped** — built, packaged, released and maintained solo
 - 🧠 Deep in the LLM stack: **prompt engineering · RAG · agents · tool use · local inference**
 - 🇬🇧 **Relocating to Leicester, UK — September 2026** with full, unrestricted right to work (no sponsorship needed)
