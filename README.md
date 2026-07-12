@@ -77,17 +77,17 @@ status:     "Open to entry-level / junior AI & automation roles — UK · remote
 
 <div align="center">
   <a href="https://github.com/midnighttalehouse-star/proxy_connect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=midnighttalehouse-star&repo=proxy_connect&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&border_color=30363d&description_lines_count=2" alt="ProxyConnect"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=midnighttalehouse-star&repo=proxy_connect&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&border_color=30363d&description_lines_count=2" alt="ProxyConnect"/>
   </a>
   <a href="https://github.com/midnighttalehouse-star/rag-pdf-chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=midnighttalehouse-star&repo=rag-pdf-chat&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&border_color=30363d&description_lines_count=2" alt="RAG PDF Chat"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=midnighttalehouse-star&repo=rag-pdf-chat&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&border_color=30363d&description_lines_count=2" alt="RAG PDF Chat"/>
   </a>
   <br/>
   <a href="https://github.com/midnighttalehouse-star/Iris-Classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=midnighttalehouse-star&repo=Iris-Classifier&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&border_color=30363d&description_lines_count=2" alt="Iris Classifier"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=midnighttalehouse-star&repo=Iris-Classifier&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&border_color=30363d&description_lines_count=2" alt="Iris Classifier"/>
   </a>
   <a href="https://github.com/midnighttalehouse-star/ai-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=midnighttalehouse-star&repo=ai-portfolio&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&border_color=30363d&description_lines_count=2" alt="AI Portfolio"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=midnighttalehouse-star&repo=ai-portfolio&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&border_color=30363d&description_lines_count=2" alt="AI Portfolio"/>
   </a>
 </div>
 
@@ -129,24 +129,18 @@ status:     "Open to entry-level / junior AI & automation roles — UK · remote
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=midnighttalehouse-star&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&border_color=30363d&include_all_commits=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=midnighttalehouse-star&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&border_color=30363d&include_all_commits=true" alt="GitHub stats"/>
   <img height="170" src="https://streak-stats.demolab.com?user=midnighttalehouse-star&background=0d1117&border=30363d&stroke=30363d&ring=a855f7&fire=22d3ee&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a855f7&sideLabels=a855f7&dates=8b949e" alt="streak"/>
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnighttalehouse-star&layout=compact&langs_count=8&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=30363d" alt="top languages"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=midnighttalehouse-star&layout=compact&langs_count=8&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=30363d" alt="top languages"/>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnighttalehouse-star&bg_color=0d1117&color=c9d1d9&line=a855f7&point=22d3ee&area=true&area_color=8e2de2&hide_border=false&custom_title=Contribution%20Graph" width="96%" alt="activity graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=midnighttalehouse-star&theme=discord&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 </div>
 
 ## 🐍 Contribution Snake
