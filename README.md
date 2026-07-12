@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://midnighttalehouse-star.github.io/ai-portfolio/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=680&lines=I+build+AI+products+that+ship.;RAG+systems+%C2%B7+AI+agents+%C2%B7+automation+pipelines;Ex-Army+Captain+%E2%80%94+officer+discipline%2C+builder+speed;Relocating+to+the+UK+%C2%B7+Sept+2026+%C2%B7+full+right+to+work" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=680&lines=I+build+AI+products+that+ship.;RAG+systems+%C2%B7+AI+agents+%C2%B7+automation+pipelines;+%E2%80%94+officer+discipline%2C+builder+speed;Relocating+to+the+UK+%C2%B7+Sept+2026+%C2%B7+full+right+to+work" alt="typing intro" />
   </a>
 </div>
 
